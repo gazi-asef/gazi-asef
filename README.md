@@ -75,17 +75,17 @@ A business application designed to monitor customer conversations and support em
 
 **Technologies:** Power Apps, Dataverse, Power Automate, AI Integration
 
+### 📄 AI-Powered SOW Generator
+An application that automates the generation of Statements of Work using AI and document processing workflows.
+
+**Technologies:** Power Apps, Power Automate Desktop, AI API Integration, HTML, PDF Generation
+
 ### 📊 Bulk Data Processing System
 A data processing solution designed to upload CSV files and separate valid, invalid, and duplicate records.
 
 **Technologies:** Power Apps, Power Automate, SQL Server
 
-### 📄 AI-Powered SOW Generator
-An application that automates the generation of Statements of Work using AI and document processing workflows.
-
-**Technologies:** Power Automate, AI API Integration, HTML, PDF Generation
-
-### 🏗️ Snag Management System
+### 🏗️ Power Platform CI/CD & Multi-Customer ALM Implementation
 An automated CI/CD solution that streamlines Power Platform solution deployment across multiple customer environments using GitHub Actions, PAC CLI, and Azure Entra ID authentication, with managed solutions, environment variables, and connection references for secure and consistent application lifecycle management.
 
 **Technologies:** GitHub, GitHub Actions, Power Platform CLI (PAC CLI), Azure Entra ID, YAML, Managed Solutions, Environment Variables, Connection References, Service Principal Authentication.
@@ -102,11 +102,7 @@ An automated CI/CD solution that streamlines Power Platform solution deployment 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gazi-asef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
 <img width="49%" src="https://streak-stats.demolab.com/?user=gazi-asef&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazi-asef&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
